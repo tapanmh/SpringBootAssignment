@@ -1,0 +1,30 @@
+{
+	"shopName" : "Megapolis Splendor",
+	"shopAddress" : {
+		"address" : "MIDC Phase III Main Rd, Phase 3, Rajiv Gandhi Infotech Park, Hinjawadi, Maharashtra",
+		"postCode" : 411057
+	}
+	
+}
+
+http://localhost:8080/shopapi?latitude=18.5946784&longitude=73.7095365
+
+{
+	"shopName" : "Ishanya Mall",
+	"shopAddress" : {
+		"address" : "Ishanya Mall Rd, Maharashtra Housing Board, Shastrinagar, Yerawada, Pune, Maharashtra",
+		"postCode" : 411006
+	}
+	
+}
+http://localhost:8080/shopapi?latitude= 18.5579585&longitude=73.8947939
+
+{
+	"shopName" : "Parijat Mithai",
+	"shopAddress" : {
+		"address" : "Sai Apex, Clover Park, Viman Nagar, Pune, Maharashtra",
+		"postCode" : 411014
+	}
+	
+}
+http://localhost:8080/shopapi?latitude=18.5649663&longitude=73.9144086
